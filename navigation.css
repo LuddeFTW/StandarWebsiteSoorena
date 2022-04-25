@@ -1,0 +1,45 @@
+
+.navbar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    overflow: hidden;
+    border: 1px solid #555; }
+
+ .navbar li {
+    float: left;    
+    text-align: center;
+    border-right: 1px solid #000
+}
+
+.navbar li a {
+    display: block;
+    color: #000;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: large;
+}
+
+.navbar li a:hover {
+    background-color: #111;
+    color: white;
+}
+
+.melon {
+    background-image: url(https://i.pinimg.com/originals/2e/9c/00/2e9c00771cb0644e8bf48863d2ba2401.png);
+}
+
+.melon4 {
+    background-image: linear-gradient(to right, yellow, red, #d102fa);
+}
+
+.melon2 {
+    background-image: url(https://wallpx.com/image/2021/04/nature-houses-clouds-scenic-anime-landscape.jpg);
+}
+
+.melon3 {
+    background-image: url(https://wallpapercave.com/wp/wp4443741.jpg);
+}
+
+

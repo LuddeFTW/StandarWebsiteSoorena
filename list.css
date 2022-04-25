@@ -1,0 +1,44 @@
+.ordered {
+    background: rgb(228, 21, 21);
+    padding: 20px;
+    width: 20%;
+    margin-left:20%;
+    font-family: 'Brush Script Mt', cursive;
+    font-size: 1.3em;
+    line-height: 100%;
+    }
+    .ordered li {
+    background: rgb(183, 230, 15);
+    padding: 5px;
+    margin: 0px 0px 5px 20px;
+    }
+    .nested-in-ol li{
+    background:rgb(112, 12, 228);
+    padding: 5px;
+    margin-left: 0px;
+    }
+    .unordered {
+    background: blueviolet;
+    padding: 20px;
+    width: 20%;
+    margin-left:20%;
+    font-family: 'Brush Script Mt', cursive;
+    font-size: 1.3em;
+    line-height: 100%;
+    }
+    .unordered li{
+    background: chartreuse;
+    padding: 5px;
+    margin: 0px 0px 5px 20px;
+    }
+    .nested-in-ul li{
+    background:rgb(112, 12, 228);
+    padding: 5px;
+    margin-left: 0px;
+    }
+    .popular-sites{
+    padding: 5px;
+     }
+    .popular-sites li{ 
+        font-size: large;
+    }
